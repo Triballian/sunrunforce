@@ -1,0 +1,2 @@
+fn main cannot be async
+https://stackoverflow.com/questions/63874178/some-strange-issues-in-compilation-of-rust-code
